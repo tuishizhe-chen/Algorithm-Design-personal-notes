@@ -11,7 +11,7 @@ This is a repository for my personal notes on algorithm design, which is a cours
 - [Lecture 6: NP-Completeness](notes/6.md)
 - [Lecture 7: Approximation Algorithms](notes/7.md)
 - [Lecture 8: Linear Programming and Two Approximation Algorithms](notes/8.md)
-- [Lecture 9: Devide and Conquer](notes/9.md)
+- [Lecture 9: Divide and Conquer](notes/9.md)
 - [Lecture 10: Network Flow](notes/10.md)
 - [Lecture 11: Applications of Network Flow and Chernoff's Bound](notes/11.md)
 - [Lecture 12: Hashing](notes/12.md)
@@ -19,5 +19,5 @@ This is a repository for my personal notes on algorithm design, which is a cours
 - [Lecture 14: Mixing of Markov and Significant Approximation Algorithms](notes/14.md)
 - [Lecture 15: TUM Matrix](notes/15.md)
 
->- [All](notes/笔记.md) consists of all notes in one file, but considered that it may be too large to load, I recommend you to read the notes separately.
+>- [All](notes/笔记.md) consists of all notes in one file, but considering that it may be too large to load, I recommend you to read the notes separately.
 >- Some notes haven't been completed yet, and I'm not going to update them 😜
