@@ -1,6 +1,10 @@
 # Algorithm-Design-personal-notes
 
-This is a repository for my personal notes on algorithm design, which is a course I took in THU instructed by Prof. 李建.
+Written by Yuxuan Chen
+
+A repository for personal notes on algorithm design, **2024**.
+
+Instructor: Jian Li (李建), IIIS, Tsinghua University.
 
 ## Table of Contents
 - [Lecture 1: Introduction and stable matching problem](notes/1.md)
